@@ -1,7 +1,7 @@
 # Alan Coronado  <img src="https://komarev.com/ghpvc/?username=coronado-alan&label=Profile%20views&color=0e75b6&style=flat" alt="coronado-alan" />  
-📖 Doctor of Philosophy in Materials Science - University of Sonora  
-👩🏻‍🎓 Master of Materials Science - University of Sonora  
-👩🏻‍🎓 Bachelor in Clinical Chemical Biology - University of Sonora  
+📖 Doctor of Philosophy in Materials Science  
+👩🏻‍🎓 Master of Materials Science 
+👩🏻‍🎓 Bachelor in Clinical Chemical Biology 
 
 ## Research
 * Software development especially with applications in computational chemistry and bioinformatics.  
